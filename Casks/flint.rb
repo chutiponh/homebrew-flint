@@ -1,6 +1,6 @@
 cask "flint" do
-  version "0.1.3"
-  sha256 "a80730516c6460629b00672877168df2b9067e9c242b4371237e7c6eed478e7e"
+  version "0.1.4"
+  sha256 "89e305c7ac28017d52502993c47366820b87bc30c52e22ddbea7cc955c008ce9"
 
   url "https://github.com/chutiponh/flint/releases/download/v#{version}/Flint-#{version}.dmg"
   name "Flint"
